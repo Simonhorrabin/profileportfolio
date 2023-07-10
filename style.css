@@ -1,8 +1,8 @@
 *{
     padding:0;
     margin: 0;
-    font-family: 
-    box-sizing: border-box;
+    /* font-family:  */
+    /* box-sizing: border-box; */
 }
 .hero{
     height: 100vh;
@@ -93,11 +93,12 @@ h4{
 }
 .newsletter form input:last-child{
     position: absolute;
-    display: ;
+    
+    /* display: ;
     outline: ;
     border: ;
     padding: ;
-    border-radius: ;
+    border-radius: ; */
     background-color: #f9004d;
     color: white;
     box-shadow: 0px opx 5px #000, 0px 0px #858585;
@@ -138,7 +139,7 @@ h4{
     text-transform: capitalize;
 }
 .about-text p{
-    color: #white;
+    color: #fcfcfc;
     letter-spacing: 1px;
     line-height: 28px;
     font-size: 18px;
@@ -202,7 +203,7 @@ h5{
     margin-bottom: 15px;
 }
 .pra p{
-    color: #white;
+    color: #fcfcfc;
     font-size: 16px;
     line-height: 27px;
     margin-bottom: 25px;
@@ -232,7 +233,7 @@ h5{
     justify-content: center;
 }
 .contact-me p{
-    color: black;
+    color: #fcfcfc;
     font-size: 30px;
     font-weight: bold;
     margin-bottom: 25px;
